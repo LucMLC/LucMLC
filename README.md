@@ -1,6 +1,8 @@
-### Hi there  🚀
+### Hi there Dev's 🚀
 
-Me chamo Lucas Martinez, sou um programador Full-Stack e atualmente estou aprendendo e criando projetos utilizando as seguintes tecnologias:
+Me chamo Lucas Martinez, sou um programador Full-Stack apaixonado por tecnologia e sempre buscando aprender mais a cada dia, com erros acertos!
+<br>
+Atualmente estou aprendendo e criando projetos utilizando as seguintes tecnologias:
 <br>
 <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-logo" >
@@ -17,6 +19,9 @@ Contatos:
 <br>
 <a href="https://www.facebook.com/lucas.martinez.canto">
    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+   </a>
+   <a href="https://www.instagram.com/martinez.lucas4/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 <br>
 <br>
