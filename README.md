@@ -1,6 +1,6 @@
 ### Hi there Dev's 🚀
 
-Me chamo Lucas Martinez, sou um programador Full-Stack apaixonado por tecnologia e sempre buscando aprender mais a cada dia, com erros acertos!
+Me chamo Lucas Martinez, sou um programador Full-Stack apaixonado por tecnologia e sempre buscando aprender mais a cada dia, com erros e acertos!
 <br>
 Atualmente estou aprendendo e criando projetos utilizando as seguintes tecnologias:
 <br>
