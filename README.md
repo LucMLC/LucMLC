@@ -13,12 +13,13 @@ Atualmente estou aprendendo e criando projetos utilizando as seguintes tecnologi
 <br>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-4">
 <br>
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img-logo" >
 
 Contatos:
 <br>
 <br>
-<a href="https://www.facebook.com/lucas.martinez.canto">
-   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<a href="https://www.linkedin.com/in/lucas-martinez-canto/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    <a href="https://www.instagram.com/martinez.lucas4/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
